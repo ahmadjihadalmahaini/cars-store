@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var name = prompt("what is your name?")
 
 alert("welcome to Cars store website " + name)
@@ -29,4 +30,11 @@ else{
 
 alert("Thank you for visiting my website")
 
+=======
+ prompt("what is your name?")
+alert("welcome to car store ")
+
+prompt("Where do you live")
+prompt("waht is fav car ?")
+>>>>>>> 108f147ca7f2e92165fbb53a9809809b700992e5
 
