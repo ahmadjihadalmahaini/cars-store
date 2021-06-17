@@ -1,0 +1,52 @@
+body{
+  background-color: lightcyan;
+  margin: 0;
+}
+
+header{
+  background-color: darkgoldenrod;
+  height: 90px;
+}
+h1{
+  float: left;
+}
+nav{
+  float: right;
+}
+
+ul{
+  margin-right: 30px;
+  margin-top: 30px;
+  
+}
+
+li{
+  display: inline-block;
+  padding-left: 20px;
+}
+/* select all the a tags that inside the li  */
+li a{
+ text-decoration: none;
+}
+
+p{
+  background-color: #F2DAC3;
+  margin: 50px;
+  padding: 30px;
+}
+
+div{
+  display: inline-block;
+  padding: 40px
+}
+
+img{
+  width: 700x;
+  height: 500
+  x;
+}
+
+footer{
+   background-color: darkgoldenrod;
+   height: 30px;
+}
