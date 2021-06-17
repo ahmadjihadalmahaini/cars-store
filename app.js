@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 var name = prompt("what is your name?")
 
-alert("welcome to Cars store website " + name)
+alert("welcome to Cars store website "+name)
 var car =prompt("what's your favorite car (BMW ,MARSEDES ,DOODGE CHALENGER) ? ")
 
 
@@ -23,18 +22,13 @@ else if (car == "DOODGE CHALENGER"){
 
 
 else{
-  alert("sorry we don't have this movie")
+  alert("sorry we don't have this type")
 
 }
      
 
 alert("Thank you for visiting my website")
 
-=======
- prompt("what is your name?")
-alert("welcome to car store ")
 
-prompt("Where do you live")
-prompt("waht is fav car ?")
->>>>>>> 108f147ca7f2e92165fbb53a9809809b700992e5
+
 
